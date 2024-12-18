@@ -1,8 +1,8 @@
 {
   "name": "@foxreis/tizentube",
-  "appName": "Kukaj",
+  "appName": "Filmy",
   "version": "1.5.1",
-  "description": "TizenTube is an ad-free and sponsor-free solution for your favourite streaming website on your Tizen (Samsung) TVs.",
+  "description": "Filmy Online",
   "packageType": "mods",
   "websiteURL": "https://ww.kukaj.me/",
   "main": "dist/userScript.js",
